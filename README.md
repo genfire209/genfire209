@@ -13,7 +13,7 @@ High school developer and lead programmer for FIRST Tech Challenge Team 13115, B
 
 ### Other projects
 
-- [**Ftc-Biobuzz---13115**](https://github.com/genfire209/Ftc-Biobuzz---13115/tree/aarjithk): our 2026-27 robot code in Java, with Pedro Pathing autonomous routines and Limelight AprilTag aiming. My work is on the `aarjithk` branch.
+- [**Ftc-Biobuzz---13115**](https://github.com/genfire209/Ftc-Biobuzz---13115): our 2026-27 robot code in Java, with Pedro Pathing autonomous routines and Limelight AprilTag aiming.
 - [**13115-task-tracker**](https://github.com/genfire209/13115-task-tracker): the team's first task app (Flutter, Node.js on Azure, Firebase push notifications). Retired in favor of Telemetry.
 - [**hack (lazycontrols)**](https://github.com/genfire209/hack): control your computer with hand gestures through a webcam (Python, OpenCV, MediaPipe). Hack of Distinction at HackFRee 2026.
 - [**cyberpatriot-ubuntu-setup**](https://github.com/genfire209/cyberpatriot-ubuntu-setup): the setup guide I wrote for my CyberPatriot team.
